@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simplex", "simplex\simplex.csproj", "{610E2574-3E4D-4C03-BE1A-C3D2F12B472E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{610E2574-3E4D-4C03-BE1A-C3D2F12B472E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610E2574-3E4D-4C03-BE1A-C3D2F12B472E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610E2574-3E4D-4C03-BE1A-C3D2F12B472E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610E2574-3E4D-4C03-BE1A-C3D2F12B472E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {568C1B0B-30BD-4D69-9E86-E09F38A861FD}
+	EndGlobalSection
+EndGlobal

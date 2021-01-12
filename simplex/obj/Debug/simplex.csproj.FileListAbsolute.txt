@@ -1,0 +1,30 @@
+D:\programming\C#\simplex\simplex\obj\Debug\simplex.csprojAssemblyReference.cache
+D:\programming\C#\simplex\simplex\obj\Debug\simplex.Form1.resources
+D:\programming\C#\simplex\simplex\obj\Debug\simplex.Properties.Resources.resources
+D:\programming\C#\simplex\simplex\obj\Debug\simplex.csproj.GenerateResource.cache
+D:\programming\C#\simplex\simplex\obj\Debug\simplex.csproj.CoreCompileInputs.cache
+D:\programming\C#\simplex\simplex\bin\Debug\simplex.exe.config
+D:\programming\C#\simplex\simplex\bin\Debug\simplex.exe
+D:\programming\C#\simplex\simplex\bin\Debug\simplex.pdb
+D:\programming\C#\simplex\simplex\obj\Debug\simplex.exe
+D:\programming\C#\simplex\simplex\obj\Debug\simplex.pdb
+D:\Documente\Universitate\ANUL 2\APA\Proiect de an\Code\Simplex-master\simplex\bin\Debug\simplex.exe.config
+D:\Documente\Universitate\ANUL 2\APA\Proiect de an\Code\Simplex-master\simplex\bin\Debug\simplex.exe
+D:\Documente\Universitate\ANUL 2\APA\Proiect de an\Code\Simplex-master\simplex\bin\Debug\simplex.pdb
+D:\Documente\Universitate\ANUL 2\APA\Proiect de an\Code\Simplex-master\simplex\obj\Debug\simplex.csprojAssemblyReference.cache
+D:\Documente\Universitate\ANUL 2\APA\Proiect de an\Code\Simplex-master\simplex\obj\Debug\simplex.Form1.resources
+D:\Documente\Universitate\ANUL 2\APA\Proiect de an\Code\Simplex-master\simplex\obj\Debug\simplex.Properties.Resources.resources
+D:\Documente\Universitate\ANUL 2\APA\Proiect de an\Code\Simplex-master\simplex\obj\Debug\simplex.csproj.GenerateResource.cache
+D:\Documente\Universitate\ANUL 2\APA\Proiect de an\Code\Simplex-master\simplex\obj\Debug\simplex.csproj.CoreCompileInputs.cache
+D:\Documente\Universitate\ANUL 2\APA\Proiect de an\Code\Simplex-master\simplex\obj\Debug\simplex.exe
+D:\Documente\Universitate\ANUL 2\APA\Proiect de an\Code\Simplex-master\simplex\obj\Debug\simplex.pdb
+C:\Users\ASUS_D\Desktop\Brainiac\Simplex\simplex\obj\Debug\simplex.csprojAssemblyReference.cache
+C:\Users\ASUS_D\Desktop\Brainiac\Simplex\simplex\obj\Debug\simplex.Form1.resources
+C:\Users\ASUS_D\Desktop\Brainiac\Simplex\simplex\obj\Debug\simplex.Properties.Resources.resources
+C:\Users\ASUS_D\Desktop\Brainiac\Simplex\simplex\obj\Debug\simplex.csproj.GenerateResource.cache
+C:\Users\ASUS_D\Desktop\Brainiac\Simplex\simplex\obj\Debug\simplex.csproj.CoreCompileInputs.cache
+C:\Users\ASUS_D\Desktop\Brainiac\Simplex\simplex\obj\Debug\simplex.exe
+C:\Users\ASUS_D\Desktop\Brainiac\Simplex\simplex\obj\Debug\simplex.pdb
+C:\Users\ASUS_D\Desktop\Brainiac\Simplex\simplex\bin\Debug\simplex.exe.config
+C:\Users\ASUS_D\Desktop\Brainiac\Simplex\simplex\bin\Debug\simplex.exe
+C:\Users\ASUS_D\Desktop\Brainiac\Simplex\simplex\bin\Debug\simplex.pdb
